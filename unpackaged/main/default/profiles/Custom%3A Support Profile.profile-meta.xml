@@ -48,13 +48,13 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <readable>false</readable>
         <field>Account.DiscountPercentage__c</field>
-        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
+        <readable>false</readable>
         <field>Account.DiscountRate__c</field>
-        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -114,11 +114,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Phone</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.Platinum_user__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -519,11 +514,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Case.AssetId</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Case.Case_Description__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
